@@ -10,8 +10,9 @@ As a user I want to:
 * Comfortably use this app on my phone
 
 ## Technologies 
-We plan non using:
+We plan on using:
 * React
-* Firebase
+* Firebase NoSQL database
+* Friebase Authentication
 * Webpack
 
