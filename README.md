@@ -7,9 +7,11 @@ As a user I want to:
 * Be able to create themes and save them, either to my own account
 * Have the option to make the theme public or private
 * Maybe have a record of my past games (wins and losses)
+* I want to comfortably use this app on my phone
 
 ## Technologies 
 We plan non using:
 * React
 * Firebase
 * Webpack
+
